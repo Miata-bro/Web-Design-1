@@ -1,0 +1,28 @@
+body    {
+    background-color: aqua;
+}
+h1  {
+    color: white;
+}
+h2  {
+    color: black;
+}h3  {
+    color: green;
+}h4  {
+    color: gray;
+}h5  {
+    color: red;
+}h6  {
+    color: turquoise;
+}
+span {
+    color: red;
+    outline-color: black;
+    outline-style: outset;
+}
+p   {
+    font-weight: bold;
+}
+ul {
+    color: deeppink;
+}
